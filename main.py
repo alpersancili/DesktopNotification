@@ -14,7 +14,7 @@ def my_notification():
     )
 
 window = tkinter.Tk()
-window.title("VOICE RECORDER")
+window.title("DESKTOP NOTIFICATION")
 window.minsize(width=400, height=400)
 
 notification_title = tkinter.Label(text="Notification Title")
